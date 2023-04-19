@@ -1,0 +1,8 @@
+B:\Documents\My Github\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.csproj.AssemblyReference.cache
+B:\Documents\My Github\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.csproj.SuggestedBindingRedirects.cache
+B:\Documents\My Github\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.csproj.CoreCompileInputs.cache
+B:\Documents\My Github\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\RomanNumeralCalculator.exe.config
+B:\Documents\My Github\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\RomanNumeralCalculator.exe
+B:\Documents\My Github\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\RomanNumeralCalculator.pdb
+B:\Documents\My Github\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.exe
+B:\Documents\My Github\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.pdb
